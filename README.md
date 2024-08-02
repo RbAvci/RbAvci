@@ -10,6 +10,8 @@
 
 📄 Check out my CV: [Rabia's CV](https://docs.google.com/document/d/170KJ9Lwg9bEMcckqbdX-nVEm7di0AHubYwPeQkFaZkg/edit)
 
+🔭 Have a look at my [My codewars](https://www.codewars.com/users/RbAvci)
+
 ⚡ Fun fact: I transitioned from being an architect to a full stack developer, embracing the challenge with patience and enthusiasm.
 
 <!---

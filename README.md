@@ -6,11 +6,11 @@
 
 💞️ I'm eager to collaborate on projects that fuse creativity and innovative solutions in the tech industry.
 
-📫 Let's connect on LinkedIn: [Rabia Avci](https://www.linkedin.com/in/rabia-avci-5231032b/)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rabia-avci-5231032b/)
 
-📄 Check out my CV: [Rabia's CV](https://docs.google.com/document/d/170KJ9Lwg9bEMcckqbdX-nVEm7di0AHubYwPeQkFaZkg/edit)
+📄 Check out my [cv](https://docs.google.com/document/d/170KJ9Lwg9bEMcckqbdX-nVEm7di0AHubYwPeQkFaZkg/edit)
 
-🔭 Have a look at my [My codewars](https://www.codewars.com/users/RbAvci)
+🔭 Have a look at my [codewars](https://www.codewars.com/users/RbAvci)
 
 ⚡ Fun fact: I transitioned from being an architect to a full stack developer, embracing the challenge with patience and enthusiasm.
 

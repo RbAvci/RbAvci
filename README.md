@@ -6,7 +6,7 @@
 
 💞️ I'm eager to collaborate on projects that fuse creativity and innovative solutions in the tech industry.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rabia-avci-5231032b/)
+📫 Let's connect on [linkedin](https://www.linkedin.com/in/rabia-avci-5231032b/)
 
 📄 Check out my [cv](https://docs.google.com/document/d/170KJ9Lwg9bEMcckqbdX-nVEm7di0AHubYwPeQkFaZkg/edit)
 
